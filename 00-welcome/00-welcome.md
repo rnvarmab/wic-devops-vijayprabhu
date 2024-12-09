@@ -3,16 +3,18 @@ I am thrilled to welcome each and every one of you to our AWS DevOps course. It'
 
 # Topic would be covered (overview) 20 hours 
 * Cloud & AWS Introduction
-  - IAM (policy & roles)
-  - EC2
-  - Networking (VPC, Subnets, IGW & NAT)
-  - S3
-  - LB & Autoscaling
-  - Cloud watch (Monitoring)
-  - Lamda
-  - Route53 (Introduction)
-  - EKS & ECS (Introduction)
-  - RDS (Introduction)
+  - IAM (policy & roles) - Done
+  - EC2 - Done
+  - Networking (VPC, Subnets, IGW & NAT) - Done
+  - S3 - Done
+  - LB & Autoscaling - Done
+  - Cloud watch (Monitoring) - Done
+  - Lamda - Done
+  - Route53 (Introduction) - Done
+  - EKS & ECS (Introduction) - Done
+  - RDS (Introduction) - Done
+  - EBS & EFS - Done
+  - Elasticache - Done
 * Course Prerequsites
 * Terraform & Cloud formation
 * Ansible
