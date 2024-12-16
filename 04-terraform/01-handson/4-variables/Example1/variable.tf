@@ -12,3 +12,9 @@ variable AWS_SECRETKEY {
 variable AWS_REGION {
   default     = "ap-south-1"
 }
+
+# Instance type
+variable "instance_type" {
+  default = "t2.micro"
+  
+}

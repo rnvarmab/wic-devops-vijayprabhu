@@ -1,7 +1,7 @@
 # What are we doing with this code?
- - Using this code we are creating EC2 instance in AWS cloud platform.
- - Additionally we will be using variables.
- - Inputs for variable will be provided from `tfvars` file.
+* Using this code we are creating security group in AWS cloud platform
+* Create new EC2 instance attached with newly created security group and tags
+* Using count argument to create more the one resource.
 
 # Steps to execute this code?
 * `terraform init` 

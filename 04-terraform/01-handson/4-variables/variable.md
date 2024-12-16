@@ -10,10 +10,5 @@
 - Number
 - List
 - Map
-- Set
-  * Set is also more similar to list.
-  * It helps to keep the list in order.
-  * Also remove duplicates in list 
-  * Example :  A list that has [5, 1, 1, 2] becomes [1, 2, 5] in set.
 
 

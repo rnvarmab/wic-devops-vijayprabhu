@@ -1,5 +1,4 @@
 resource "aws_instance" "ec2_instance" {
-    ami = "ami-0c1a7f89451184c8b"
-    instance_type = "t2.micro"
-    tags = {Name = "third-machine"}
+    ami = "ami-0fed77069cd5a6d6c"
+    instance_type = var.instance_type
 }
