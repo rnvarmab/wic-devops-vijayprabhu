@@ -22,3 +22,8 @@
 # How to check whether ansible is installed or not ?
 
 `ansible --version`
+
+# Steps If you are using Python 3.12.3
+- pip3 install ansible --break-system-packages
+- ln -s /usr/local/bin/ansible /usr/bin/ansible (we are creating symbolic links)
+- `ansible --version`
